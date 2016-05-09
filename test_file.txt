@@ -2,5 +2,5 @@ test file made on the website
 
 
 
-changed on the local komputer #should be (C)
+changed on the local komputer #should be (C) not K
 
